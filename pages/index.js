@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Listen Live!" />
         <p className="description">
-          
+          Non-stop Hit Music
         </p>
       </main>
 
