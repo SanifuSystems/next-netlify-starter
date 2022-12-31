@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>iFM - The Party Station</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Listen Live!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          <a href="http://91.121.165.88:8116/stream?1473424110680.mp3" class="demo" style="display: none;"></a>
         </p>
       </main>
 
