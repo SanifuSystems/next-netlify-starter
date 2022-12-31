@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Listen Live!" />
         <p className="description">
-          <a href="http://91.121.165.88:8116/stream?1473424110680.mp3" class="demo" style="display: none;"></a>
+          
         </p>
       </main>
 
